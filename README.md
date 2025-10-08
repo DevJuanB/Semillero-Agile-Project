@@ -30,10 +30,11 @@ semillero-agile-project/
 │   ├── docs/              # Documentación
 │   └── tests/             # Suite de pruebas
 │
-└── 📁 docs/
-    ├── research-papers/   # Investigaciones
-    ├── case-studies/      # Estudios de caso
-    └── methodologies/     # Guías metodológicas
+└── 📁 API SEMILLERO/
+     │
+     └── chatbot example/
+         ├── index.html/   # CSS - JAVASCRIPT - HTML INTEGRADO EN 1 SOLO ARCHIVO.
+         └── read.md/      # Explicación de implementación de la API.
 ```
 
 ## 🚀 Instalación Rápida
